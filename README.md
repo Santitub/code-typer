@@ -4,7 +4,7 @@ _Simulador de escritura de código con efectos visuales profesionales_
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](https://github.com/tuusuario/code-typer)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](https://github.com/Santitub/code-typer)
 
 Un simulador de escritura de código interactivo que crea el efecto de que el código se escribe a máxima velocidad con cada pulsación de teclas. ¡Perfecto para demostraciones y screencasts profesionales!
 
@@ -54,15 +54,6 @@ Modifica los colores editando las constantes de `colorama`:
 ```python
 # Ejemplo: Cambiar a tema azul
 sys.stdout.write(Fore.BLUE)
-```
-
-### Velocidad de typing (modo avanzado)
-Ajusta el archivo `config.json`:
-```json
-{
-  "typing_delay": 0.01,
-  "color_theme": "cyber_green"
-}
 ```
 
 ## 📂 Estructura del Proyecto
