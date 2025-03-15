@@ -23,7 +23,7 @@ Un simulador de escritura de c√≥digo interactivo que crea el efecto de que el c√
 
 1. **Clona el repositorio:**
 ```bash
-git clone https://github.com/tuusuario/code-typer.git
+git clone https://github.com/Santitub/code-typer.git
 cd code-typer
 ```
 
